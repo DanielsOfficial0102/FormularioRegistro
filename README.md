@@ -8,8 +8,8 @@
 
  ##
  
-### Web Version
+### Versão Para Desktop
 <img src="assets/final.png" alt="Web Version"/>
 
-### Mobile Version
+### Versão Para Aparelhos Moveis
 <img src="assets/final-mobile.png" alt="Mobile Version"/>
